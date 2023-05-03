@@ -1,2 +1,1 @@
-# hellow-word
-frist coding
+## 这是C++项目初始版本
